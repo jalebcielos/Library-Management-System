@@ -1,0 +1,11 @@
+==============================================================================
+# GREENFIELD UNIVERSITY LIBRARY - USER ACCOUNTS
+==============================================================================
+
+User ID: EMP-GFU-2026-001 | Role: Librarian | Name: Adrian Navarro | Username: EMP2026001 | Password: adrian123
+User ID: EMP-GFU-2026-002 | Role: Librarian | Name: Samantha Dela Cruz | Username: EMP2026002 | Password: samantha123
+User ID: EMP-GFU-2026-003 | Role: Librarian | Name: Gabriel Morales | Username: EMP2026003 | Password: gabriel123
+User ID: 2026100001 | Role: Member | Name: John Santos | Username: 2026100001 | Password: john123
+User ID: 2026100002 | Role: Member | Name: Maria Reyes | Username: 2026100002 | Password: maria123
+User ID: 2026100003 | Role: Member | Name: Mark Cruz | Username: 2026100003 | Password: maria123
+User ID: 2026100004 | Role: Member | Name: Anna Garcia | Username: 2026100004 | Password: maria123

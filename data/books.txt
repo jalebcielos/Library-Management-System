@@ -1,0 +1,11 @@
+==============================================================================
+# GREENFIELD UNIVERSITY LIBRARY - BOOK RECORDS
+==============================================================================
+
+Book ID: 102 | Title: Crime and Punishment | Author: Fyodor Dostoevsky | Category: Psychological Novel | Year: 1866 | Total Copies: 15 | Copies Available: 15 | Cover: src/bookcover/Crime and Punishment.jpg
+Book ID: 103 | Title: Demian | Author: Hermann Hesse | Category: Psychological Novel | Year: 1919 | Total Copies: 18 | Copies Available: 17 | Cover: src/bookcover/Demian.jpg
+Book ID: 104 | Title: The Wings | Author: Kim Hae-gyeong | Category: Short Story | Year: 1936 | Total Copies: 12 | Copies Available: 11 | Cover: src/bookcover/The Wings.jpg
+Book ID: 105 | Title: Moby-Dick | Author: Herman Melville | Category: Adventure Novel | Year: 1851 | Total Copies: 20 | Copies Available: 19 | Cover: src/bookcover/Moby-Dick.jpg
+Book ID: 106 | Title: Wuthering Heights | Author: Emily Bronte | Category: Gothic Novel | Year: 1847 | Total Copies: 17 | Copies Available: 16 | Cover: src/bookcover/Wuthering Heights.jpg
+Book ID: 107 | Title: Don Quixote | Author: Miguel de Cervantes | Category: Satirical Novel | Year: 1605 | Total Copies: 20 | Copies Available: 20 | Cover: src/bookcover/Don Quixote.jpg
+Book ID: 108 | Title: Dream of the Red Chamber | Author: Cao Xueqin | Category: Psychological Novel | Year: 1791 | Total Copies: 14 | Copies Available: 14 | Cover: src/bookcover/Dream of the Red Chamber.jpg

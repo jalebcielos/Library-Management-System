@@ -1,0 +1,12 @@
+==============================================================================
+# GREENFIELD UNIVERSITY LIBRARY - BORROW AND RETURN RECORDS
+==============================================================================
+
+Date & Time: 2026-10-27 15:10:26 | Member ID: 2026100001 | Member Name: John Santos | Book ID: 101 | Book Title: The Metamorphosis | Action: Borrowed | Due Date: 2026-11-03 | Fine: 0.00
+Date & Time: 2026-10-27 15:10:44 | Member ID: 2026100001 | Member Name: John Santos | Book ID: 102 | Book Title: Crime and Punishment | Action: Borrowed | Due Date: 2026-11-03 | Fine: 0.00
+Date & Time: 2026-10-27 15:12:08 | Member ID: 2026100001 | Member Name: John Santos | Book ID: 103 | Book Title: Demian | Action: Borrowed | Due Date: 2026-11-03 | Fine: 0.00
+Date & Time: 2026-10-27 15:12:11 | Member ID: 2026100001 | Member Name: John Santos | Book ID: 104 | Book Title: The Wings | Action: Borrowed | Due Date: 2026-11-03 | Fine: 0.00
+Date & Time: 2026-10-27 15:12:13 | Member ID: 2026100001 | Member Name: John Santos | Book ID: 105 | Book Title: Moby-Dick | Action: Borrowed | Due Date: 2026-11-03 | Fine: 0.00
+Date & Time: 2026-10-27 15:12:19 | Member ID: 2026100001 | Member Name: John Santos | Book ID: 106 | Book Title: Wuthering Heights | Action: Borrowed | Due Date: 2026-11-03 | Fine: 0.00
+Date & Time: 2026-10-27 15:13:14 | Member ID: 2026100001 | Member Name: John Santos | Book ID: 101 | Book Title: The Metamorphosis | Action: Returned | Due Date: 2026-11-03 | Fine: 0.00
+Date & Time: 2026-10-27 15:13:18 | Member ID: 2026100001 | Member Name: John Santos | Book ID: 102 | Book Title: Crime and Punishment | Action: Returned | Due Date: 2026-11-03 | Fine: 0.00
